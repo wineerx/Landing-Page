@@ -63,9 +63,11 @@ body {
 
 .center {
     position: absolute;
-    top: 50%;
+    top: 57%;
     left: 50%;
     transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
     text-align: center;
     align-items: center;
     width: 100%;
@@ -89,4 +91,37 @@ body {
 .center h2 span {
 
     font-weight: 100;
+}
+
+.center h6  {
+
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 740;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    background: white;
+    border-radius: 9px;
+    border: 1px solid rgb(0, 0, 0) ;
+    width: 12%;
+    padding: 12px;
+}
+
+.icon {
+    float: right;
+    margin-right: 60px;
+    width: 3%;
+    position: relative;
+    margin-top: -45%;
+    opacity: 0;
+}
+
+.icon imng {
+
+    width: 100%;
+}
+
+@media only screen and (max-width: 767px){
+
+    
 }
