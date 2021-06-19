@@ -68,4 +68,25 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
     align-items: center;
+    width: 100%;
+}
+
+.center p {
+
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.center h2 {
+
+    color: #fff;
+    font-size: 4em;
+    word-spacing: 7px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.center h2 span {
+
+    font-weight: 100;
 }
