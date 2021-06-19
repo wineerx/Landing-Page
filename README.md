@@ -1,2 +1,9 @@
-# Landing-Page
- Landing-Page -  Crie uma página de destino responsiva usando HTML5 e CSS3
+## Landing-Page
+ Landing-Page -  Criando uma página de destino responsiva usando HTML5 e CSS3
+
+# Ferramentas 
+ HTML5/CSS3
+ 
+# Alunos - Contribuidores
+
+<button href="https://github.com/Raatexx">Ratex</button>
