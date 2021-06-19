@@ -6,4 +6,4 @@
  
 # Alunos - Contribuidores
 
-<button href="https://github.com/Raatexx">Ratex</button>
+<a href="https://github.com/Raatexx">Ratex</a>
